@@ -1,2 +1,13 @@
-# FUTURE_ML_01
-Machine Learning project to forecast future sales/demand using historical business data with Python and Scikit-learn.
+# Sales Forecasting Project
+
+## Objective
+Predict future sales using machine learning.
+
+## Tools
+Python, Pandas, Matplotlib, Scikit-learn
+
+## Model
+Linear Regression
+
+## Output
+Predicted future sales with graph visualization.
